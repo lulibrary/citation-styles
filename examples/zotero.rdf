@@ -1,0 +1,874 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="#item_414">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oliver</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_415"/>
+        <dcterms:isReferencedBy rdf:resource="#item_416"/>
+        <dc:subject>Print book</dc:subject>
+        <dc:date>2003</dc:date>
+        <dc:title>Constitutional reform in the United Kingdom</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_415">
+       <rdf:value>&lt;p&gt;Book with a single author&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_416">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_417">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cavendish</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slapper</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelly</foaf:surname>
+                        <foaf:givenName>Diane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_418"/>
+        <dcterms:isReferencedBy rdf:resource="#item_419"/>
+        <dc:subject>Print book</dc:subject>
+        <dc:date>2006</dc:date>
+        <dc:title>The English legal system</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_418">
+       <rdf:value>&lt;p&gt;Book with multiple authors&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_419">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_420">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Annapolis</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Naval Institute Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sullivan</foaf:surname>
+                        <foaf:givenName>Dennis Harold</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fidell</foaf:surname>
+                        <foaf:givenName>Ellen Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_421"/>
+        <dcterms:isReferencedBy rdf:resource="#item_422"/>
+        <dc:subject>Print book</dc:subject>
+        <dc:date>2002</dc:date>
+        <dc:title>Evolving military justice</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_421">
+       <rdf:value>&lt;p&gt;Book with multiple editors&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_422">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_423">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Abingdon</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cruttenden</foaf:surname>
+                        <foaf:givenName>Alice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_424"/>
+        <dcterms:isReferencedBy rdf:resource="#item_425"/>
+        <dc:subject>Print book</dc:subject>
+        <prism:edition>8</prism:edition>
+        <dc:date>2014</dc:date>
+        <dc:title>Gimson's pronunciation of English</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_424">
+       <rdf:value>&lt;p&gt;Book with multiple editions&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_425">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:BookSection rdf:about="#item_426">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Evolving military justice</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Annapolis</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Naval Institute Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magg</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sullivan</foaf:surname>
+                        <foaf:givenName>Dennis Harold</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fidell</foaf:surname>
+                        <foaf:givenName>Ellen Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_427"/>
+        <dcterms:isReferencedBy rdf:resource="#item_428"/>
+        <dc:subject>Print book</dc:subject>
+        <dc:date>2002</dc:date>
+        <dc:title>Judicial review of the Manual for Courts Martial</dc:title>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_427">
+       <rdf:value>&lt;p&gt;Chapter from an edited book&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_428">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="http://link.springer.com/book/10.1007%2F978-1-59745-177-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kukol</foaf:surname>
+                        <foaf:givenName>Alexei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_430"/>
+        <dcterms:isReferencedBy rdf:resource="#item_431"/>
+        <dc:subject>E-book</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/book/10.1007%2F978-1-59745-177-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2008</dc:date>
+        <dc:title>Molecular modelling of proteins</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_430">
+       <rdf:value>&lt;p&gt;E-book&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_431">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of book&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). [Online]. E-book provider. Available at: URL&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_432">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>71</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>History Workshop Journal</dc:title>
+                <dcterms:alternative>HWJ</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Day</foaf:surname>
+                        <foaf:givenName>Doris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_433"/>
+        <dcterms:isReferencedBy rdf:resource="#item_434"/>
+        <dc:subject>Journal article</dc:subject>
+        <bib:pages>194-218</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>Kinship and community in Victorian London</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_433">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets) Title of article.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full Title of Journal&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics), Volume number (Issue number), page number(s).&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_434">
+       <rdf:value>&lt;p&gt;Print journal article&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_435">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>The Law Teacher</dc:title>
+                <dcterms:alternative>TLT</dcterms:alternative>
+                <dc:identifier>DOI 1234</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stickley</foaf:surname>
+                        <foaf:givenName>Arthur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_436"/>
+        <dcterms:isReferencedBy rdf:resource="#item_437"/>
+        <dc:subject>Journal article</dc:subject>
+        <bib:pages>63-86</bib:pages>
+        <dc:date>2011</dc:date>
+        <dcterms:dateSubmitted>2014-05-29</dcterms:dateSubmitted>
+        <dc:title>Providing a law degree for the &quot;real world&quot;</dc:title>
+        <z:archive>Swetwise</z:archive>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_436">
+       <rdf:value>&lt;p&gt;Electronic journal article&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_437">
+        <rdf:value>&lt;h4 style=&quot;box-sizing: border-box; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: 500; line-height: 1.1; color: #333333; margin-top: 10px; margin-bottom: 10px; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;Family name of author, Initials. Year (in brackets) Title of article.&lt;span&gt; &lt;/span&gt;&lt;em style=&quot;box-sizing: border-box;&quot;&gt;Full Title of Journal&lt;/em&gt;&lt;span&gt; &lt;/span&gt;(in italics), Volume number (Issue number), page number(s). Name of online journal provider. [Accessed date].&lt;/span&gt;&lt;/h4&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Report rdf:about="#item_438">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Department of Health</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Department of Health</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_439"/>
+        <dcterms:isReferencedBy rdf:resource="#item_440"/>
+        <dc:subject>Report</dc:subject>
+        <dc:date>2001</dc:date>
+        <dc:title>National service framework for older people</dc:title>
+    </bib:Report>
+    <bib:Memo rdf:about="#item_439">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Author/Organisation Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full title of report&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place: Publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_440">
+       <rdf:value>&lt;p&gt;Print report&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Report rdf:about="http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_4071283.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Department of Health</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Department of Health</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_442"/>
+        <dcterms:isReferencedBy rdf:resource="#item_443"/>
+        <dc:subject>Report</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_4071283.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2001</dc:date>
+        <dcterms:dateSubmitted>2011-09-12</dcterms:dateSubmitted>
+        <dc:title>National service framework for older people</dc:title>
+    </bib:Report>
+    <bib:Memo rdf:about="#item_442">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Author/Organisation Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full title of report (in italics)&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;. [type of medium] Place: Publisher. Available at: URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_443">
+       <rdf:value>&lt;p&gt;Online report&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_444">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The Times</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slapper</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_445"/>
+        <dcterms:isReferencedBy rdf:resource="#item_446"/>
+        <dc:subject>Newspaper article</dc:subject>
+        <bib:pages>4</bib:pages>
+        <dc:date>2005-09-03</dc:date>
+        <dc:title>Corporate manslaughter: new issues for lawyers</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_445">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets) Title of article or column header.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full Title of Newspaper&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics), day and month, page numbers.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_446">
+       <rdf:value>&lt;p&gt;Print newspaper article&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.thetimes.co.uk/edition/news/sit-more-exams-to-beat-stress-schools-minister-nick-gibb-tells-gcse-pupils-63n02jt8d">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Times Online</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woolcock</foaf:surname>
+                        <foaf:givenName>Nerys</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_448"/>
+        <dcterms:isReferencedBy rdf:resource="#item_449"/>
+        <dc:subject>Newspaper article</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.thetimes.co.uk/edition/news/sit-more-exams-to-beat-stress-schools-minister-nick-gibb-tells-gcse-pupils-63n02jt8d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018-02-08</dc:date>
+        <dcterms:dateSubmitted>2018-02-08</dcterms:dateSubmitted>
+        <dc:title>Sit more exams to beat stress, schools minister Nick Gibb tells GCSE pupils</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_448">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. OR online newspaper site name. Year (in brackets) Title of article or column header.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full Title of Newspaper Site&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; (in italics), day and month. Available at: URL [Accessed date].&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_449">
+       <rdf:value>&lt;p&gt;Online newspaper article&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.economist.com/leaders/2018/07/12/mini-grids-may-be-the-best-way-to-illuminate-the-bottom-billion">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Periodical><dc:title>The Economist</dc:title></bib:Periodical>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_451"/>
+        <dcterms:isReferencedBy rdf:resource="#item_452"/>
+        <dc:subject>Newspaper article</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.economist.com/leaders/2018/07/12/mini-grids-may-be-the-best-way-to-illuminate-the-bottom-billion</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2006-07-24</dc:date>
+        <dcterms:dateSubmitted>2018-07-18</dcterms:dateSubmitted>
+        <dc:title>Mini-grids may be the best way to illuminate the &quot;bottom billion&quot;</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_451">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. OR online newspaper site name. Year (in brackets) Title of article or column header.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full Title of Newspaper Site&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; (in italics), day and month. Available at: URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_452">
+       <rdf:value>&lt;p&gt;Online newspaper article&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="#item_453">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lancaster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Lancaster</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnston</foaf:surname>
+                        <foaf:givenName>Kate</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_454"/>
+        <dcterms:isReferencedBy rdf:resource="#item_455"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:description>Event date: 1989-07-05/1989-07-08
+Event place: University of Lancaster</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>International Conference on Romanticism and Revolution.</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dc:title>From revolution to revelation</dc:title>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_454">
+       <rdf:value>&lt;p&gt;Conference paper&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_455">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Full title of conference paper&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). In: Editor or name of organisation, Full title of conference. Location, Date. Place of publication: Publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="http://wp.lancs.ac.uk/studyblog/2017/05/26/making-group-work-work/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaumont</foaf:surname>
+                        <foaf:givenName>Rebecca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_457"/>
+        <dcterms:isReferencedBy rdf:resource="#item_458"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wp.lancs.ac.uk/studyblog/2017/05/26/making-group-work-work/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-05-26</dc:date>
+        <dcterms:dateSubmitted>2018-02-12</dcterms:dateSubmitted>
+        <z:type>Wordpress</z:type>
+        <dc:title>Making group-work work</dc:title>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_457">
+       <rdf:value>&lt;p&gt;Blog&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_458">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of blog&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Available at: URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:ConferenceProceedings rdf:about="#item_459">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Greentown University Management School</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenName>Mary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_460"/>
+        <dcterms:isReferencedBy rdf:resource="#item_461"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2011-01-25</dc:date>
+        <z:type>Presentation</z:type>
+        <z:meetingName>Module INEB603: Understanding Innovation</z:meetingName>
+        <dc:title>Starting Out</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_460">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of speaker, Initials. OR Name of company/organisation Year (in brackets) Title of presentation (if applicable). Visiting speaker/presentation for Module Code: Module Title. Date of visit. Name of Institution.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_461">
+       <rdf:value>&lt;p&gt;Visiting speaker&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:ConferenceProceedings rdf:about="#item_462">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Greentown University Management School</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bloggs</foaf:surname>
+                        <foaf:givenName>Jo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_463"/>
+        <dcterms:isReferencedBy rdf:resource="#item_464"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2011-03-27</dc:date>
+        <z:type>Visiting speaker</z:type>
+        <z:meetingName>Module INEB603: Understanding Innovation</z:meetingName>
+        <dc:title>Starting Out</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_463">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of speaker, Initials. OR Name of company/organisation Year (in brackets) Title of presentation (if applicable). Visiting speaker/presentation for Module Code: Module Title. Date of visit. Name of Institution.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_464">
+       <rdf:value>&lt;p&gt;Visiting speaker&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:ConferenceProceedings rdf:about="#item_465">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Greentown University Management School</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Escendency</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_466"/>
+        <dcterms:isReferencedBy rdf:resource="#item_467"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2011-01-25</dc:date>
+        <z:type>Presentation</z:type>
+        <z:meetingName>Module INEB603: Understanding Innovation</z:meetingName>
+        <dc:title>Starting Out</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_466">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of speaker, Initials. OR Name of company/organisation Year (in brackets) Title of presentation (if applicable). Visiting speaker/presentation for Module Code: Module Title. Date of visit. Name of Institution.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_467">
+       <rdf:value>&lt;p&gt;Visiting speaker&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:ConferenceProceedings rdf:about="#item_468">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Lancaster University Management School</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lancaster Brewery</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_469"/>
+        <dcterms:isReferencedBy rdf:resource="#item_470"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2018-01-21</dc:date>
+        <z:meetingName>Module ENSI506: Internationalisation and New Technologies</z:meetingName>
+        <dc:title>Class visit to Lancaster Brewery, Lancaster</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_469">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of speaker, Initials. if known OR Name of organisation Year (in brackets) Class visit to name of company/organisation, place, for Module Code: Module Title. Date of visit. Name of institution.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_470">
+       <rdf:value>&lt;p&gt;Visit to company/organisation&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Thesis rdf:about="#item_471">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lancaster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Lancaster University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casey</foaf:surname>
+                        <foaf:givenName>Sean</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_472"/>
+        <dcterms:isReferencedBy rdf:resource="#item_473"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2012</dc:date>
+        <z:type>PhD</z:type>
+        <dc:title>Drawing the delicate</dc:title>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_472">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of dissertation /thesis&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Level. Official name of University.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_473">
+       <rdf:value>&lt;p&gt;Thesis/dissertation&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=bt8YFCveNpY">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Speakfirst</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dcterms:isReferencedBy rdf:resource="#item_475"/>
+        <dcterms:isReferencedBy rdf:resource="#item_476"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=bt8YFCveNpY</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2009</dc:date>
+        <dcterms:dateSubmitted>2019-02-09</dcterms:dateSubmitted>
+        <dc:title>Presentation skills - how to improve your presentations</dc:title>
+    </bib:Recording>
+    <bib:Memo rdf:about="#item_475">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Name of person/organisation posting video Year video was posted (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of video&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Available at: full URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_476">
+       <rdf:value>&lt;p&gt;YouTube video or similar&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_477">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The Stationery Office</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Office for National Statistics</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_478"/>
+        <dcterms:isReferencedBy rdf:resource="#item_479"/>
+        <dc:subject>Other source</dc:subject>
+        <dc:date>2000</dc:date>
+        <dc:title>Standard occupational classification volume 2: the coding index</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_478">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. Or organisation sponsoring the publication Year (in brackets)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Title of publication&lt;/em&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt; &lt;/span&gt;(in italics). Place of publication: publisher.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_479">
+        <rdf:value>&lt;p&gt;Government or parliamentary publication&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="http://www.bbc.co.uk/ww2peopleswar/stories/76/a4161476.shtml">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>WW2 People's War</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nicholson</foaf:surname>
+                        <foaf:givenName>Denise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_481"/>
+        <dcterms:isReferencedBy rdf:resource="#item_482"/>
+        <dc:subject>Webpage</dc:subject>
+        <dc:subject>Website</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bbc.co.uk/ww2peopleswar/stories/76/a4161476.shtml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2005</dc:date>
+        <dcterms:dateSubmitted>2014-05-29</dcterms:dateSubmitted>
+        <dc:title>Soldiers on Pendle Hill</dc:title>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_481">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. OR company/organisation name Year (in brackets) &lt;em&gt;Title of page&lt;/em&gt; (in italics). Available at: URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_482">
+       <rdf:value>&lt;p&gt;Webpage/website&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.rlf.org.uk/resources/writing-essays/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Royal Literary Fund</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_484"/>
+        <dcterms:isReferencedBy rdf:resource="#item_485"/>
+        <dc:subject>Webpage</dc:subject>
+        <dc:subject>Website</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rlf.org.uk/resources/writing-essays/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2015-06-10</dcterms:dateSubmitted>
+        <dc:title>Writing Essays</dc:title>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_484">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Family name of author, Initials. OR company/organisation name Year (in brackets) Title of page (in italics). Available at: URL [Accessed date].&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_485">
+       <rdf:value>&lt;p&gt;Webpage/website&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Collection rdf:about="#collection_8">
+        <dc:title>Reference Examples</dc:title>
+        <dcterms:hasPart rdf:resource="#item_414"/>
+        <dcterms:hasPart rdf:resource="#item_417"/>
+        <dcterms:hasPart rdf:resource="#item_420"/>
+        <dcterms:hasPart rdf:resource="#item_423"/>
+        <dcterms:hasPart rdf:resource="#item_426"/>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/book/10.1007%2F978-1-59745-177-2"/>
+        <dcterms:hasPart rdf:resource="#item_432"/>
+        <dcterms:hasPart rdf:resource="#item_435"/>
+        <dcterms:hasPart rdf:resource="#item_438"/>
+        <dcterms:hasPart rdf:resource="http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_4071283.pdf"/>
+        <dcterms:hasPart rdf:resource="#item_444"/>
+        <dcterms:hasPart rdf:resource="https://www.thetimes.co.uk/edition/news/sit-more-exams-to-beat-stress-schools-minister-nick-gibb-tells-gcse-pupils-63n02jt8d"/>
+        <dcterms:hasPart rdf:resource="https://www.economist.com/leaders/2018/07/12/mini-grids-may-be-the-best-way-to-illuminate-the-bottom-billion"/>
+        <dcterms:hasPart rdf:resource="#item_453"/>
+        <dcterms:hasPart rdf:resource="http://wp.lancs.ac.uk/studyblog/2017/05/26/making-group-work-work/"/>
+        <dcterms:hasPart rdf:resource="#item_459"/>
+        <dcterms:hasPart rdf:resource="#item_462"/>
+        <dcterms:hasPart rdf:resource="#item_465"/>
+        <dcterms:hasPart rdf:resource="#item_468"/>
+        <dcterms:hasPart rdf:resource="#item_471"/>
+        <dcterms:hasPart rdf:resource="https://www.youtube.com/watch?v=bt8YFCveNpY"/>
+        <dcterms:hasPart rdf:resource="#item_477"/>
+        <dcterms:hasPart rdf:resource="http://www.bbc.co.uk/ww2peopleswar/stories/76/a4161476.shtml"/>
+        <dcterms:hasPart rdf:resource="https://www.rlf.org.uk/resources/writing-essays/"/>
+    </z:Collection>
+</rdf:RDF>
